@@ -1,3 +1,14 @@
+# ℹ There is a successor project **Geo Engine**
+
+This project is not actively developed and maintained anymore!
+
+However, there is a successor project Geo Engine. You can find more information here:
+
+ * https://github.com/geo-engine/geoengine
+ * https://www.geoengine.de/
+
+---
+
 # Visualization, Analysis and Transformation System
 The VAT system is a web-based, data-driven spatio-temporal processing system. It consists of multiple repositories.
 
